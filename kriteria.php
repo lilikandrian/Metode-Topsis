@@ -1,5 +1,5 @@
 <?php
-//koneksi
+//koneksii
 session_start();
 include ("koneksi.php");
 
